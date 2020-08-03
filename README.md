@@ -15,6 +15,5 @@ Para pleno funcionamento deste projeto, você precisará:
 ## Como Utilizar este projeto
 
 **Na pasta "Scripts" há o Script principal:**<br />
-1 - "FortiClient-DNS-Register.ps1"
-Este script faz todo o processo de conexão e pesquisa nos Switches e a interação com o Active Directory.<br />
+1 - "FortiClient-DNS-Register.ps1"<br />
 [Para acessar esse script clique aqui](/scripts/FortiClient-DNS-Register.ps1)
