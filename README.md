@@ -8,7 +8,7 @@ Com este script é possível automatizar o disable/enable do DNS Register nas in
 Para pleno funcionamento deste projeto, você precisará:
 - Criar uma GPO que:
 	- Copia o ps1 para o caminho abaixo de todas as estações (Uso File -> Replace):
-			From - \\domain.local\NETLOGON\PowerShell\1-Scripts-HBSIS\FortiClient-DNS-Register.ps1
+			From - \\domain.local\NETLOGON\PowerShell\1-Scripts\FortiClient-DNS-Register.ps1
 			To - C:\Windows\Scripts\FortiClient-DNS-Register.ps1
 	- Cria uma tarefa agendada em todas as estações que roda o ps1 quando ocorre o event ID 4004
 
